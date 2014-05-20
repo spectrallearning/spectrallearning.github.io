@@ -21,6 +21,12 @@ h2 {
   font-weight:      300;
 }
 
+h3 {
+  font-size:        12pt;
+  font-style:       none;
+  font-weight:      300;
+}
+
 a:link, a:visited {
   color:            #00f;
   text-decoration:  none;
